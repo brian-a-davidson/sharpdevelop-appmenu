@@ -1,0 +1,43 @@
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe.config
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\bin\Debug\MessageBoxManager.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csprojResolveAssemblyReference.cache
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.MainForm.resources
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csproj.GenerateResource.Cache
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csprojResolveAssemblyReference.cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.MainForm.resources
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csproj.GenerateResource.Cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe.config
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\bin\Debug\MessageBoxManager.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csprojResolveAssemblyReference.cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.MainForm.resources
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csproj.GenerateResource.Cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe.config
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CTA_v1\Ventra_Appmenu\bin\Debug\MessageBoxManager.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe.config
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\MessageBoxManager.pdb
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csprojResolveAssemblyReference.cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.MainForm.resources
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csproj.GenerateResource.Cache
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.exe
+C:\sharpdevelop_projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.pdb
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.csprojResolveAssemblyReference.cache
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.exe
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\obj\Debug\Cubic_Appmenu.pdb
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe.config
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.exe
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\Cubic_Appmenu.pdb
+C:\Users\badas\OneDrive\Documents\SharpDevelop Projects\Cubic_Appmenu_CMN_v2\Ventra_Appmenu\bin\Debug\MessageBoxManager.pdb
